@@ -21,13 +21,13 @@ It also serves as practice for using Git and GitHub workflows such as forking, c
 
 | File / Folder        | Description |
 |---------------------|-------------|
-| `Git_exp/`          | Git experimentation and practice files |
+| `Git_exp/           | Git experimentation and practice files |
 | `GCD.c`             | Program to find the Greatest Common Divisor |
 | `Palitron.c`        | Palindrome number checking program |
 | `SumOfDigitNo.c`    | Sum of digits of a number |
-| `conversionB-D.c`  | Binary to Decimal conversion |
-| `conversionO-D.c`  | Octal to Decimal conversion |
-| `fibonacci.c`      | Fibonacci series implementation |
+| `conversionB-D.c`   | Binary to Decimal conversion |
+| `conversionO-D.c`   | Octal to Decimal conversion |
+| `fibonacci.c`       | Fibonacci series implementation |
 
 ---
 
